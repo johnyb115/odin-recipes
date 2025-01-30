@@ -1,0 +1,1 @@
+This is a first project in ODIN tutorial, showcasing basic HTML skills.
